@@ -8,6 +8,5 @@ class toto(App):
 	def build(self):
 		return FloatLayout()
 
-
 if __name__ == "__main__":
 	toto().run()
