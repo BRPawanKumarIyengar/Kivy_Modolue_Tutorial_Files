@@ -8,7 +8,7 @@ class Grid(GridLayout):
     pass
 
 
-presentation = Builder.load_file("glout.kv")
+presentation = Builder.load_file("Grid_Layout.kv")
 
 class UcoeApp(App):
     def build(self):
