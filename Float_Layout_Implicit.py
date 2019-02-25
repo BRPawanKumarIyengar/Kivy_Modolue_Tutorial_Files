@@ -18,6 +18,6 @@ class SimpleApp (App):
   root.add_widget(mutton)
   root.add_widget(label)
   return root
-  
+ 
 app = SimpleApp()
 app.run()
